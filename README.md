@@ -1,6 +1,6 @@
 # Sea Level Predictor 
 
-This freeCodeCamp project was created using their Gitpot starter code and the instructions can be found [here](https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-python-projects/sea-level-predictor). 
+This project was made as part of the freeCodeCamp *'Data Analysis with Python'* course and was created using their Gitpot starter code, instructions [here](https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-python-projects/sea-level-predictor). 
 
 The goal of the project is to create a function to predict global average sea level changes from year 1880 to 2050 using Pandas, Matplotlib and Scipy. The function returns a plot similar to the one below that includes a scatterplot(for years 1880-2013), 1st line of best fit(1880-2050) and 2nd line of best fit(2000-2050).
 
